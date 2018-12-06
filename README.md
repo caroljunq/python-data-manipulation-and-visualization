@@ -5,6 +5,8 @@ Using python modules for ploting charts and data
 * Pandas
 * Numpy
 * Geopandas
+* Matplotlib
+* Pyplot
 
 # Useful links
 * **Tutorial:** https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#question1
