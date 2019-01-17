@@ -1,5 +1,5 @@
-# python-data-manipulation-and-visualization
-Using python modules for ploting charts and data
+# python-data-science
+Using python modules for manipulating, visualizing, summarizing and studying data.
 
 # Requirements (Python Modules)
 * Pandas
