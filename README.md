@@ -6,7 +6,7 @@ Using python modules for manipulating, visualizing, summarizing and studying dat
 * Numpy
 * Geopandas
 * Matplotlib
-* Pyplot
+* Seaborn
 
 # Useful links
 ## Pandas
