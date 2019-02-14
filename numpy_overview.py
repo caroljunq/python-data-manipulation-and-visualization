@@ -10,7 +10,7 @@ array = np.array([1,2,3],dtype=np.int64)
 print(array.data)
 print(array.dtype) # describes what the kind of elements
 print(array.shape) # the dimension of the array
-
+print('teste')
 # Filling the array
 
 # Create an array of ones
